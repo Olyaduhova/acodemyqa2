@@ -7,14 +7,14 @@ When left unchecked, ongoing communication problems can potentially cut into pro
 Recognizing and addressing common issues can smooth over problems before they get out of hand.
 Watch for common workplace communication problems and resolve them quickly.
 
-* [Failure to Communicate Fully](#Failure-to-Communicate-Fully);
+* [Failure to Communicate Fully](#Failure-to-Communicate-Fully)
 * [Assuming Someone Else Has the Ball](#Assuming-Someone-Else-Has-the-Ball)
 * [Inarticulate Communication)](#Inarticulate-Communication)
 * [Being Unprepared](#Being-Unprepared)
 * [Using the Wrong Communication Tool](#Using-the-Wrong-Communication-Tool)
 * [Saying Too Much](#Saying-Too-Much)
 * [Listen](#Listen)
-* [Is A Two-Way Street](#Communication-Is-A-Two-Way-Street)
+* [Communication Is A Two-Way Street](#Communication-Is-A-Two-Way-Street)
 * [One-On-One Meetings Are Vital](#One-On-One-Meetings-Are-Vital)
   
 ## Failure to Communicate Fully
