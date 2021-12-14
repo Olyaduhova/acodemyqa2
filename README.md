@@ -8,7 +8,7 @@ Recognizing and addressing common issues can smooth over problems before they ge
 Watch for common workplace communication problems and resolve them quickly.***
 
 1. [Failure to Communicate Fully](#Failure-to-Communicate-Fully)
-  * Solution
+   * Solution
 2. [Assuming Someone Else Has the Ball](#Assuming-Someone-Else-Has-the-Ball)
     * Solution
 3. [Inarticulate Communication](#Inarticulate-Communication)
