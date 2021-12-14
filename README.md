@@ -7,24 +7,24 @@ When left unchecked, ongoing communication problems can potentially cut into pro
 Recognizing and addressing common issues can smooth over problems before they get out of hand.
 Watch for common workplace communication problems and resolve them quickly.***
 
-* [Failure to Communicate Fully](#Failure-to-Communicate-Fully)
+1. [Failure to Communicate Fully](#Failure-to-Communicate-Fully)
   * Solution
-* [Assuming Someone Else Has the Ball](#Assuming-Someone-Else-Has-the-Ball)
-  * Solution
-* [Inarticulate Communication)](#Inarticulate-Communication)
-  * Solution
-* [Being Unprepared](#Being-Unprepared)
-  * Solution
-* [Using the Wrong Communication Tool](#Using-the-Wrong-Communication-Tool)
-  * Solution
-* [Saying Too Much](#Saying-Too-Much)
-  * Solution
-* [Listen](#Listen)
-  * Solution
-* [Communication Is A Two-Way Street](#Communication-Is-A-Two-Way-Street)
-  * Solution
-* [One-On-One Meetings Are Vital](#One-On-One-Meetings-Are-Vital)
-  
+2. [Assuming Someone Else Has the Ball](#Assuming-Someone-Else-Has-the-Ball)
+    * Solution
+3. [Inarticulate Communication](#Inarticulate-Communication)
+    * Solution
+4. [Being Unprepared](#Being-Unprepared)
+    * Solution
+5. [Using the Wrong Communication Tool](#Using-the-Wrong-Communication-Tool)
+    * Solution
+6. [Saying Too Much](#Saying-Too-Much)
+    * Solution
+7. [Listen](#Listen)
+    * Solution
+8. [Communication Is A Two-Way Street](#Communication-Is-A-Two-Way-Street)
+    * Solution
+9. [One-On-One Meetings Are Vital](#One-On-One-Meetings-Are-Vital)
+
 ## Failure to Communicate Fully
 In a workplace dominated by quick replies via text and email, details can be lost, overlooked or misunderstood.
 Answering “yes” to a series of questions in an email isn’t clear.
@@ -92,6 +92,19 @@ Therefore, one-on-one meetings can help to avoid workplace communication problem
 By having one-on-one meetings you provide your employees with a safe and positive workplace environment where employees feel heard.
 Forbes research shows that by having an open-door policy, you are able to gain “accessibility as a manager, to encourage an open flow of communication, to gain fast access to important or just happening situations or information and to maintain closer working relationships with employees”.
 
+| Problem | is a solution suggested |
+| ------------- | ------------- |
+| Failure to Communicate Fully | Y |
+| Assuming Someone Else Has the Ball| Y  |
+| Content Cell  | Y  |
+| Inarticulate Communication  | Y  |
+| Being Unprepared  | Y  |
+| Using the Wrong Communication Tool  | Y  |
+| Saying Too Much  | Y  |
+| Listen  | Y  |
+| Communication Is A Two-Way Street  | Y  |
+| One-On-One Meetings Are Vital  | N  |
+
 ![It is Image](https://1.bp.blogspot.com/-5fYgQPXDgek/XrQ-6MpXuqI/AAAAAAAACmc/1uWxPnQdvBYCrOpSu3H7K90Lk2unYZYqACLcBGAsYHQ/s1600/Team-Communication-Quotes-For-The-Workplace%2B%25284%2529.webp)
 
 Streamlined and effective communications start from the top down.
@@ -101,6 +114,6 @@ Before blaming communication problems, assess the other causes for a breakdown i
 
 ###### Created by using:
 
-1. [CHRON.](https://smallbusiness.chron.com/)
-2. [DailyQuotesBank](https://www.dailyquotesbank.com/)
-3. [Connecteam](https://connecteam.com/)            
+* [CHRON.](https://smallbusiness.chron.com/)
+* [DailyQuotesBank](https://www.dailyquotesbank.com/)
+* [Connecteam](https://connecteam.com/)            
