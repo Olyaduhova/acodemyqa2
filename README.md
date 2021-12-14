@@ -2,25 +2,33 @@
 > *The single biggest problem in communication is the illusion that it has taken place.
 >  George Bernard Shaw*
 
-Communication problems in the workplace can have a negative impact on morale, productivity and interdepartmental working relationships.
+***Communication problems in the workplace can have a negative impact on morale, productivity and interdepartmental working relationships.
 When left unchecked, ongoing communication problems can potentially cut into profits, increase turnover and lead to mistakes that negatively impact the company’s public image.
 Recognizing and addressing common issues can smooth over problems before they get out of hand.
-Watch for common workplace communication problems and resolve them quickly.
+Watch for common workplace communication problems and resolve them quickly.***
 
 * [Failure to Communicate Fully](#Failure-to-Communicate-Fully)
+  * Solution
 * [Assuming Someone Else Has the Ball](#Assuming-Someone-Else-Has-the-Ball)
+  * Solution
 * [Inarticulate Communication)](#Inarticulate-Communication)
+  * Solution
 * [Being Unprepared](#Being-Unprepared)
+  * Solution
 * [Using the Wrong Communication Tool](#Using-the-Wrong-Communication-Tool)
+  * Solution
 * [Saying Too Much](#Saying-Too-Much)
+  * Solution
 * [Listen](#Listen)
+  * Solution
 * [Communication Is A Two-Way Street](#Communication-Is-A-Two-Way-Street)
+  * Solution
 * [One-On-One Meetings Are Vital](#One-On-One-Meetings-Are-Vital)
   
 ## Failure to Communicate Fully
 In a workplace dominated by quick replies via text and email, details can be lost, overlooked or misunderstood.
 Answering “yes” to a series of questions in an email isn’t clear.
-Responding “OK” when asked if you can review a document doesn’t address the question of where the document resides, what kind of review is requested, or when edits need to be returned.
+Responding “OK” when asked if you can review a document does not address the question of where the document resides, what kind of review is requested, or when edits need to be returned.
 
 __Solution__: Make email requests clear and detailed and make responses complete and comprehensive.
 Before you press Send, ask yourself:
@@ -46,7 +54,7 @@ When speaking in a heated environment, choose your words carefully and run them 
 If you’re late for a meeting or approaching a deadline, and you are unprepared, you may be tempted to wing it.
 When you are unprepared, mistakes, misunderstandings, and even the misdirection of a project or task can occur.
 
-__Solution__: Be organized and prepared. If you aren’t, it’s better to admit you need more time than to throw an idea against the wall and hope it sticks.
+__Solution__: Be organized and prepared. If you are not, it’s better to admit you need more time than to throw an idea against the wall and hope it sticks.
 
 ## Using the Wrong Communication Tool
 There are times when an email is appropriate and other times when a phone call or in-person meeting is more suitable.
@@ -79,7 +87,7 @@ It is vital to build and foster two-way relationships with your team.
 __Solution__: Engage employees in an active dialogue and do it on a regular basis.
 
 ## One On One Meetings Are Vital
-Gallup reported that 70% of the discrepancies in employee engagement was solely caused by the actions or inactions of a manager.
+Gallup reported that 70% of the discrepancies in employee engagement was solely caused by the actions or in actions of a manager.
 Therefore, one-on-one meetings can help to avoid workplace communication problems.
 By having one-on-one meetings you provide your employees with a safe and positive workplace environment where employees feel heard.
 Forbes research shows that by having an open-door policy, you are able to gain “accessibility as a manager, to encourage an open flow of communication, to gain fast access to important or just happening situations or information and to maintain closer working relationships with employees”.
@@ -93,8 +101,6 @@ Before blaming communication problems, assess the other causes for a breakdown i
 
 ###### Created by using:
 
-[CHRON.](https://smallbusiness.chron.com/)
-
-[DailyQuotesBank](https://www.dailyquotesbank.com/)
-
-[connecteam](https://connecteam.com/)            
+1. [CHRON.](https://smallbusiness.chron.com/)
+2. [DailyQuotesBank](https://www.dailyquotesbank.com/)
+3. [Connecteam](https://connecteam.com/)            
